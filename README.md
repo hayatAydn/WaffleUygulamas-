@@ -1,2 +1,2 @@
 # WaffleUygulamas-
-Katkı yapmam
+Katkı yaptım
